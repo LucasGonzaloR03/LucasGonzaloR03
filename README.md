@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/lucasgonzalor03](https://www.linkedin.com/in/lucasgonzalor03/)" target="_blank">
+  <a href="https://www.linkedin.com/in/lucasgonzalor03/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://portfolio-rodriguez-lucas.vercel.app" target="_blank">
