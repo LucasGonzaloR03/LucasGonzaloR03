@@ -22,33 +22,37 @@ Estoy interesado en seguir aprendiendo, participar en proyectos desafiantes y co
 
 ## Stack tecnológico
 
-**Frontend**
-- React
-- TypeScript
-- JavaScript
-- Angular
-- Svelte
+### Lenguajes de programación
 
-**Backend**
-- Kotlin
-- Java
-- Python
-- Go
-- Spring Boot
-- Node.js
-- Express
-- FastAPI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,go,js,ts" />
+</p>
 
-**Bases de datos**
-- PostgreSQL
-- MongoDB
-- Redis
-- Neo4j
+Desarrollo con Kotlin, Java, Python, Go, JavaScript y TypeScript.
 
-**Herramientas**
-- Git
-- Docker
-- Postman
+### Frameworks y tecnologías
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,react,angular,svelte,nodejs,express,fastapi" />
+</p>
+
+Desarrollo de aplicaciones web, APIs REST y servicios backend utilizando Spring Boot, React, Angular, Svelte, Node.js, Express y FastAPI.
+
+### Bases de datos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+Experiencia con PostgreSQL, MongoDB, Redis y Neo4j, trabajando con modelos relacionales, documentales, clave-valor y grafos.
+
+### Herramientas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman" />
+</p>
+
+Contenerización, control de versiones, colaboración y pruebas de APIs.
 
 ## Proyectos destacados
 
