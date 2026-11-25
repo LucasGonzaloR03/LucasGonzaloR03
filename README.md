@@ -1,129 +1,101 @@
-<h1 align="center">¡Hola! Soy Lucas Gonzalo Rodríguez 👋</h1>
+# Lucas Gonzalo Rodríguez
 
-<p align="center">
-  <b>Técnico en Programación Informática · Full-Stack Developer</b><br/>
-  📍 Buenos Aires, Argentina &nbsp;|&nbsp; 🎓 UNSAM · Egresado 2025
-</p>
+**Software Developer | Técnico Universitario en Programación Informática**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucasgonzalor03/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://portfolio-rodriguez-lucas.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:lucasgonzalorodriguez9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Disponible%20para%20trabajar-22c55e?style=for-the-badge" />
-</p>
+Buenos Aires, Argentina  
+[LinkedIn](https://linkedin.com/in/lucasgonzalor03) · [Portfolio](https://portfolio-rodriguez-lucas.vercel.app/) · [GitHub](https://github.com/LucasGonzaloR03)  
+lucasgonzalorodriguez9@gmail.com
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
-Soy Técnico en Programación Informática egresado de la **Universidad Nacional de San Martín (UNSAM)**. Actualmente busco mi primer puesto como **desarrollador full-stack**, con disposición para aprender nuevas tecnologías y aportar valor desde el primer día.
+Soy Técnico Universitario en Programación Informática, egresado de la Universidad Nacional de San Martín (UNSAM), donde actualmente me desempeño como tutor.
 
-- 🚀 Apasionado por construir soluciones robustas y bien diseñadas
-- 🤝 Habilidades de trabajo colaborativo y resolución de problemas
-- 📐 Comprometido con las buenas prácticas de código y arquitectura
-- 🌱 Siempre aprendiendo y adaptándome a nuevos desafíos
+Me interesa el desarrollo de software y el diseño de soluciones tecnológicas. Durante mi formación participé en proyectos académicos y personales que me permitieron trabajar con distintas tecnologías, desarrollar aplicaciones, implementar APIs REST e integrar diferentes sistemas de almacenamiento.
 
----
+Trabajo principalmente con Kotlin, Python y Java, utilizando tecnologías como Spring Boot y React. También tengo experiencia con TypeScript, JavaScript y Node.js, bases de datos relacionales y no relacionales, Docker y Git.
 
-## 🛠️ Stack Tecnológico
+Actualmente acompaño a estudiantes en proyectos de desarrollo de software, abordando temas de programación, integración de aplicaciones, arquitectura backend y gestión de datos.
+
+Estoy interesado en seguir aprendiendo, participar en proyectos desafiantes y colaborar con equipos de desarrollo.
+
+## Stack tecnológico
 
 **Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+- React
+- TypeScript
+- JavaScript
+- Angular
+- Svelte
 
 **Backend**
+- Kotlin
+- Java
+- Python
+- Go
+- Spring Boot
+- Node.js
+- Express
+- FastAPI
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**Bases de Datos**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+**Bases de datos**
+- PostgreSQL
+- MongoDB
+- Redis
+- Neo4j
 
 **Herramientas**
+- Git
+- Docker
+- Postman
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+## Proyectos destacados
 
----
+### Uberto – Full Stack Trip Management Platform
 
-## 🚀 Proyectos Destacados
+Proyecto académico desarrollado en equipo para la gestión de usuarios, choferes y viajes. Integra una aplicación web frontend con una API REST backend.
 
-### 🚗 [Uberto Backend](https://github.com/LucasGonzaloR03/Uberto-Backend-PHM-UNSAM) — Gestión de reservas de viajes
-Backend en **Kotlin/Spring Boot** con arquitectura modular. Integra múltiples bases de datos (PostgreSQL, MongoDB, Redis, Neo4j), con foco en seguridad, rendimiento y buenas prácticas de diseño.
+- Backend: Kotlin, Spring Boot, JWT y Spring Security.
+- Frontend: React, TypeScript, Vite y Material UI.
+- Persistencia poliglota: PostgreSQL, MongoDB, Redis y Neo4j.
+- Contenerización con Docker y pruebas de integración.
 
-`Kotlin` `Spring Boot` `PostgreSQL` `MongoDB` `Redis` `Neo4j`
+**Repositorios:** [Frontend](https://github.com/LucasGonzaloR03/Uberto-Frontend-PHM-UNSAM) · [Backend](https://github.com/LucasGonzaloR03/Uberto-Backend-PHM-UNSAM)
 
----
+### MusicAr – Gestión de equipos musicales
 
-### 🖥️ [Uberto Frontend](https://github.com/LucasGonzaloR03/Uberto-Frontend-PHM-UNSAM) — Gestión de reservas de viajes
-Frontend web que consume la API REST del backend Uberto. Permite administrar usuarios, choferes y viajes. Desarrollado con React, TypeScript y Material UI, aplicando testing y buenas prácticas de arquitectura.
+Aplicación desarrollada en Kotlin para modelar y gestionar equipos musicales, aplicando programación orientada a objetos, patrones de diseño y testing.
 
-`React` `TypeScript` `Material UI` `CSS`
+[Ver repositorio](https://github.com/LucasGonzaloR03/MusicAr-Algoritmos-II-UNSAM)
 
----
+### Expectativa de Inflación en Argentina (2017–2023)
 
-### 🎸 [MusicAr](https://github.com/LucasGonzaloR03/MusicAr-Algoritmos-II-UNSAM) — Gestión de equipos musicales
-Aplicación en Kotlin para modelar y gestionar equipos musicales, aplicando POO, modelado de dominio y testing automatizado.
+Aplicación desarrollada en Python para calcular expectativas de inflación mediante algoritmos de optimización y modelado matemático.
 
-`Kotlin`
+[Ver repositorio](https://github.com/LucasGonzaloR03/Trabajo-Practico-N-1-Matematica-III-UNSAM)
 
----
+### Predicción de Cambio Climático en Argentina
 
-### 📊 [Expectativa de Inflación en Argentina (2017–2023)](https://github.com/LucasGonzaloR03/Trabajo-Practico-N-1-Matematica-III-UNSAM)
-Aplicación Python para calcular expectativas de inflación mediante algoritmos de optimización y modelado matemático.
+Análisis de variables meteorológicas de Buenos Aires mediante técnicas de procesamiento de datos y modelos predictivos de Machine Learning.
 
-`Python` `NumPy` `Matplotlib`
+Tecnologías: Python, Pandas, NumPy, Scikit-learn y Matplotlib.
 
----
+[Ver repositorio](https://github.com/LucasGonzaloR03/Trabajo-Practico-N-2-Matematica-III-UNSAM)
 
-### 🌦️ [Predicción de Cambio Climático en Argentina](https://github.com/LucasGonzaloR03/Trabajo-Practico-N-2-Matematica-III-UNSAM)
-Análisis de variables meteorológicas de Buenos Aires (1991–2023) con modelos predictivos usando machine learning.
+### Canales en Go – Programación concurrente
 
-`Python` `Pandas` `NumPy` `Scikit-Learn` `Matplotlib`
+Implementación de algoritmos clásicos de concurrencia, como Productor-Consumidor, utilizando goroutines y channels.
+
+[Ver repositorio](https://github.com/LucasGonzaloR03/Trabajo-Practico-de-Canales-Seminario-de-Programacion-UNSAM)
 
 ---
 
-### ⚙️ [Canales en Go](https://github.com/LucasGonzaloR03/Trabajo-Practico-de-Canales-Seminario-de-Programacion-UNSAM) — Go Routines y Canales
-Implementación de algoritmos clásicos de concurrencia (Productor-Consumidor, buffer) usando Go Routines y Canales.
+## Contacto
 
-`Go`
+Estoy abierto a nuevas oportunidades laborales en Argentina y a nivel internacional.
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasGonzaloR03&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGonzaloR03&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
-<p align="center">
-  💼 Abierto a oportunidades full-stack · ¡No dudes en contactarme!
-</p>
+- LinkedIn: https://linkedin.com/in/lucasgonzalor03
+- Portfolio: https://portfolio-rodriguez-lucas.vercel.app/
+- Email: lucasgonzalorodriguez9@gmail.com
 
